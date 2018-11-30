@@ -24,7 +24,7 @@ function addNew(titulo,descripcion,imagen,valor){
       html: titulo
     })
     var p = $("<p/>",{
-      "class": "contenido card-body group inner list-group-item-text",
+      "class": "text-justify contenido card-body group inner list-group-item-text",
       html: descripcion
     })
     var div1 = $( "<div/>", {

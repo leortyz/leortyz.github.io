@@ -18,3 +18,12 @@ footer{
 .mi{
 	color:#264E86;
 }
+
+.btn{
+color:#0074E4;
+}
+
+input:invalid {
+ 
+border: 1px solid red;
+}
