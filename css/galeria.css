@@ -1,0 +1,37 @@
+.gallery-title
+{
+    font-size: 36px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 2px gainsboro solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.port-image
+{
+    width: 100%;
+
+}
+
+
+.gallery_product
+{
+    margin-bottom: 30px;
+    margin-top:2px;
+    max-width: 350;
+    max-height: 350;
+
+}
+
+
+
+@media only screen and (min-width: 800px) {
+    .img-fluid:hover {
+        -ms-transform: scale(1.2); /* IE 9 */
+        -webkit-transform: scale(1.2); /* Safari 3-8 */
+        transform: scale(1.2); 
+}   
+}

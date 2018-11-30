@@ -1,0 +1,11 @@
+.gallery-title
+{
+    font-size: 36px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 2px gainsboro solid;
+    margin: 20px;
+    padding: 10px;
+}

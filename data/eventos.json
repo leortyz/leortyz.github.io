@@ -1,0 +1,37 @@
+[{
+		"titulo": "The internet of things (IOT)",
+		"descripcion": "curso introductorio del Internet de las Cosas(IoT). Donde se verán tópicos de protocolos, seguridad y estructuras de un proyecto en IoT.",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/34303547_1373873182714048_2617580402801377280_n.jpg?_nc_cat=108&_nc_ht=scontent.fgye1-1.fna&oh=6590ec2f8655ee3b6c1ad192b2a25ac9&oe=5C668409",
+		"valor": "150"
+	},
+	{
+		"titulo": "Elaboracion de papers",
+		"descripcion": "Éste curso está diseñado para entregarle herramientas de elaboración de papers online gracias a la plataforma Overleaf. Todo documento será elaborado con el formato oficial de IEEE, solicitado constantemente para entrega de documentos profesionales.",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/31730009_1345254445575922_9044735744194641920_n.jpg?_nc_cat=104&_nc_ht=scontent.fgye1-1.fna&oh=0b6ecbf589e28680f081a99b9fa5236c&oe=5C77CA6A",
+		"valor": "30"
+	},
+	{
+		"titulo": "Raspberry Pi",
+		"descripcion": "Curso de programación con RASPBERRY PI. Donde se verán tópicos de programación en lenguaje C y Python de vital importancia para el desarrollo. Éste curso incluye material para el curso (Raspberry PI3).",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/31437316_1343199929114707_4387565025670201344_n.jpg?_nc_cat=100&_nc_ht=scontent.fgye1-1.fna&oh=e80fff800e05ac42b8860b8a8198dfc4&oe=5C6BD12B",
+		"valor": "75"
+	},
+	{
+		"titulo": "Java",
+		"descripcion": "Curso de programación en Java",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/24862457_1223961544371880_576063160040702012_n.png?_nc_cat=107&_nc_ht=scontent.fgye1-1.fna&oh=b8cc50078e9b217777f13c85c0034cb6&oe=5C681FDB",
+		"valor": "40"
+	},
+	{
+		"titulo": "Introducción a MikroTik RouterOS (MAS-ROS)",
+		"descripcion": "Qué es RouterOS. Niveles de Licenciamiento RouterOS. WinBox, WebFig, Quick Set, Home AP / CPE. Principios de Firewall: estructura, filtros, chain, actions. Source NAT (src-nat). Destination NAT (dat-nat & redirect). Backup / Restore. Herramientas (tools) de RouterOS, Monitoreo (traffic monitor, torch, graphs). support.rif, autosupout.rif & viewer. System logs, debug logs",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/34483216_1802942206457391_6265789941159034880_n.jpg?_nc_cat=109&_nc_ht=scontent.fgye1-1.fna&oh=7e222d8623d213bc2d7110c774546a41&oe=5C7238EC",
+		"valor": "0"
+	},
+	{
+		"titulo": "Introducción a Ruteo Avanzado con MikroTik RouterOS (MAE-RAV-ROS) ",
+		"descripcion": "Concepto de Ruteo Estático y Ruteo Dinámico.Diferencias entre Ruteo Estático y Dinámico.Conceptos de OSPF y uso del comando Network.Conceptos de BGP, creación de AS privados, configuración de un peer.MPLS, Introducción, Label Switching, Protocolos, Beneficios.",
+		"imagen":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/46235691_2042036495881293_6647309141578612736_n.jpg?_nc_cat=107&_nc_ht=scontent.fgye1-1.fna&oh=d5ebc5c4d73dab0a11c4c626ceb5fb05&oe=5CAA3AA8",
+		"valor": "0"
+	}
+]

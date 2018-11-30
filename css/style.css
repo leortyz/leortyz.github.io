@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  
+  background: #EFF0F4; 
+  font-family: 'Roboto';
+}
+
+
+
+#fondo{
+  width: 100%;
+  height: 100%;
+
+}
+
+#top{
+  padding-top: 5px;
+  
+}
+
+#buscar{
+  background-color:  transparent;
+  color: white;
+  padding-bottom:4px;
+  font-size: 15pt;
+  margin-left: 0;
+  padding-left: 0;
+
+}
+
+.menu_redes{
+  padding-right: 10px;
+  margin-left: 30px;
+
+
+}
+.menu_redes li{
+  padding-right: 10px;
+  display: inline;
+
+}
+
+
+
+
+.icono{
+  font-size: 15pt;
+  color:  #264E86 
+}
+.home{
+    margin-left: 30px;
+}
+
+.navbar-nav{
+  padding-bottom: 0px;
+  padding-top: 0px;
+
+}
+nav{
+  background-color: #264E86;
+  text-align: right;
+}
+
+.navbar-nav li{
+display: inline;
+text-align: center;
+margin: 0 0 0 0;
+padding: 0;
+}
+
+footer{
+     background-color: #264E86;  color: white;
+     
+}        
+
+.we span , .contact span , .social span{
+   color: #FFF; 
+   font-weight: 800; 
+   padding:20px 0px;
+   display: block;
+   text-transform: uppercase;
+   font-size: 16px;
+   letter-spacing: 1px;
+}
+
+.we li , .contact li , .social li {
+    padding:5px 0px;
+    list-style: none;
+}
+
+.we li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:14px;
+}
+
+.social li{
+    float:left;
+}
+
+.social .fa{
+    color:#9c9c9c;
+    margin-right: 10px;
+    font-size:22px;
+}
+
+.i{
+  color: white;
+  margin-right: 10px;
+    font-size:22px;
+}

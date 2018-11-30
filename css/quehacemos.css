@@ -1,0 +1,111 @@
+
+.gallery-title
+{
+    font-size: 36px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 2px gainsboro solid;
+    margin: 20px;
+    padding: 10px;
+}
+
+.gallery-title2
+{
+    font-size: 24px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 1px gainsboro solid;
+    margin: 40px;
+    padding: 20px;
+}
+
+.port-image
+{
+    width: 100%;
+
+}
+
+.gallery_product > .image{
+    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:200¿px;
+    max-height:200px;
+    border-radius: 100px;
+}
+
+
+.gallery_product
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border:1px dotted lightgrey;
+  
+    
+}
+
+.overlay{
+  color: #264E86;
+  font-weight: bold;
+}
+
+#p{
+  color: #264E86;
+}
+.image:hover {
+-webkit-transform: rotateY(180deg);
+-webkit-transform-style: preserve-3d;
+transform: rotateY(180deg);
+transform-style: preserve-3d;}
+.image{
+  padding: 5px;
+}
+
+
+.free-image1 {
+  content:url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/13325624_10153803163559862_8668613668331912130_n.jpg?_nc_cat=107&_nc_ht=scontent.fuio13-1.fna&oh=1ea39f3256c0421286672a1a8e038f07&oe=5C44A0F6");
+}
+
+.free-image1 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/13325624_10153803163559862_8668613668331912130_n.jpg?_nc_cat=107&_nc_ht=scontent.fuio13-1.fna&oh=1ea39f3256c0421286672a1a8e038f07&oe=5C44A0F6");
+}
+.free-image2 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/42450698_10217350956663769_398551657736044544_n.jpg?_nc_cat=101&_nc_ht=scontent.fuio13-1.fna&oh=b72cbe9a4f66aa607cb838492bded28a&oe=5C533C4F");
+}
+.free-image3 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/19884197_402509086816513_4879261378563466973_n.jpg?_nc_cat=106&_nc_ht=scontent.fuio13-1.fna&oh=1d369f26024cefc55a876f5a5708adff&oe=5C81AD87");
+}
+.free-image4 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/31369063_1808246455862630_1479762817417865461_n.jpg?_nc_cat=111&_nc_ht=scontent.fuio13-1.fna&oh=20a776dac237a8de4defd71c134560f2&oe=5C4404E8");
+}
+.free-image5 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/11887888_1168908919792527_7395569253317776386_n.jpg?_nc_cat=111&_nc_ht=scontent.fuio13-1.fna&oh=ef4763e3b221b5644de2f21aeebabd1a&oe=5C498495");
+}
+.free-image6 {
+  content: url("https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/14691133_1140091756082665_5022285482791009338_n.jpg?_nc_cat=100&_nc_ht=scontent.fgye1-1.fna&oh=1d80b92fd9ed681ebdfbbbfd708a0520&oe=5C4A45F2");
+}
+.free-image7 {
+  content: url("https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/1936536_10205139308833270_2406397792743629063_n.jpg?_nc_cat=101&_nc_ht=scontent.fgye1-1.fna&oh=9f5ae892e97967f95455f8f08de26cc8&oe=5C4C9CF7");
+}
+.free-image8 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/44667520_10204935829391492_3610363407531769856_n.jpg?_nc_cat=106&_nc_ht=scontent.fuio13-1.fna&oh=644332226c2a1ac591cd95402a3f4022&oe=5C85FA50");
+}
+.free-image9 {
+  content: url("https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/13445768_1021324054583974_8453122420790063128_n.jpg?_nc_cat=101&_nc_ht=scontent.fgye1-1.fna&oh=52259cd17e6eecbe853542b7edb90a03&oe=5C3F0D46");
+}
+.free-image10 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/42992034_10156998234054589_6740480249382830080_n.jpg?_nc_cat=100&_nc_ht=scontent.fuio13-1.fna&oh=59bdf9afde8ab19798f4777739cdfa9e&oe=5C447C68");
+}
+.free-image11 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/29597481_1710067739037000_5045589083075426387_n.jpg?_nc_cat=111&_nc_ht=scontent.fuio13-1.fna&oh=4cde494f854525c47053710ba87c6ea0&oe=5C51F39B");
+}
+.free-image12 {
+  content: url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/20728398_1820642241560501_1365870634813630542_n.jpg?_nc_cat=109&_nc_ht=scontent.fuio13-1.fna&oh=5a04ce6f395f0d73ed72f88de452a123&oe=5C855E03");
+}
+

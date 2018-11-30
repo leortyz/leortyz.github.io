@@ -1,0 +1,72 @@
+
+.gallery-title
+{
+    font-size: 36px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 2px gainsboro solid;
+    margin: 20px;
+    padding: 10px;
+}
+
+.gallery-title2
+{
+    font-size: 24px;
+    color:#264E86;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+    border-bottom: 1px gainsboro solid;
+    margin: 40px;
+    padding: 20px;
+}
+
+.port-image
+{
+    width: 100%;
+
+}
+
+
+.gallery_product
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border:1px dotted lightgrey;
+  
+    
+}
+
+
+#p{
+  color: #264E86;
+}
+.zoom {
+    padding: 50px;
+    transition: transform .2s;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    max-width:300px;
+    max-height:300px;
+    border-radius: 150px;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+.free-image1 {
+  content:url("https://scontent.fuio13-1.fna.fbcdn.net/v/t1.0-9/14691133_1140091756082665_5022285482791009338_n.jpg?_nc_cat=100&_nc_ht=scontent.fuio13-1.fna&oh=c47717d8d2b0a018f9911b8bf902e53e&oe=5C71D2F2");
+}
+
+.free-image2 {
+  content: url("https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/22308586_1444662818916886_5952310004068888517_n.jpg?_nc_cat=106&_nc_ht=scontent.fgye1-1.fna&oh=9278b2e1694b5f6237f1fbd953a9202e&oe=5C76AFC2");
+}
